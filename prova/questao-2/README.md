@@ -1,0 +1,1 @@
+Ex. 2. Dado um vetor na memória com n elementos, elabore um código assembly que identifique o maior valor do vetor, onde n deverá ser especificado na memória. Imprimir o resultado usando chamadas de sistema.
